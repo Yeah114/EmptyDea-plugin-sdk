@@ -4,7 +4,7 @@
 
 ## DynamicLoader 目录约定
 
-运行时目录位于 `tempest_storage/lang/DynamicLoader/`：
+运行时目录位于 `EmptyDea_storage/lang/DynamicLoader/`：
 
 - `code/`：插件源码（可选，便于你管理）
 - `exe/`：插件编译后的可执行文件（DynamicLoader 从这里启动）
